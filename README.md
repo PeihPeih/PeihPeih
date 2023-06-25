@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-block-end: 0.3rem">Hi there👋, I'm Peih</h1>
-<a align="center" style="display: block; width = 100%" href="https://git.io/typing-svg"
+<a align="right" style="display: block; width = 100%" href="https://git.io/typing-svg"
   ><img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=A+student+at+PTIT;Learning+Data+Scientist"
     alt="Typing SVG"
