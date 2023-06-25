@@ -1,11 +1,12 @@
 <h1 align="center" style="margin-block-end: 0.3rem">
-  Hi there👋, I'm Peih
-</h1>
-<a align="center" style="display: block; width = 200%" href="https://git.io/typing-svg"
+  Hi there👋, I'm Peih <br>
+  <a align="center" style="display: block; width = 200%" href="https://git.io/typing-svg"
   ><img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=39A9F7&center=true&vCenter=true&width=435&lines=A+student+at+PTIT;Learning+Data+Scientist"
     alt="Typing SVG"
 /></a>
+</h1>
+
 
 - 📫 How to reach me **tienhiep345@gmail.com** <br />
 - ⚡ Fun fact **I like sports, specially parkour**
@@ -110,10 +111,3 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=peihpeih&show_icons=true&locale=en&layout=compact"
-    alt="peihpeih"
-  />
-</p>
