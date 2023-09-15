@@ -29,30 +29,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/tienhiep345?hr_r=1" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="tienhiep345?hr_r=1"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://codeforces.com/profile/tienhiep345" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-      alt="tienhiep345"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/hiep1234567" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="hiep1234567"
-      height="30"
-      width="40"
-  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
