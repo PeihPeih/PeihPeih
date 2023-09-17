@@ -9,7 +9,6 @@
 
 
 - 📫 How to reach me **tienhiep345@gmail.com** <br />
-- ⚡ Fun fact **I like sports, specially parkour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
