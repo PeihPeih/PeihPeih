@@ -2,7 +2,7 @@
   Hi there👋, I'm Peih <br>
   <a align="center" style="display: block; width = 200%" href="https://git.io/typing-svg"
   ><img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=39A9F7&center=true&vCenter=true&width=435&lines=Currently+studing+at+PTIT;Want+to+become+Data+Scientist"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=39A9F7&center=true&vCenter=true&width=435&lines=Currently+studing+at+PTIT;Will+become+a+Data+Scientist"
     alt="Typing SVG"
 /></a>
 </h1>
