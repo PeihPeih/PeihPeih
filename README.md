@@ -38,6 +38,18 @@
     rel="noreferrer"
   >
     <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+      alt="matplotlib"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="#"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
       src="https://github.com/PeihPeih/Test/blob/master/icons/pngegg.png"
       alt="matplotlib"
       width="40"
