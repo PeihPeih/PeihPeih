@@ -38,8 +38,20 @@
     rel="noreferrer"
   >
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"
-      alt="javascript"
+      src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"
+      alt="numpy"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="#"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"
+      alt="pandas"
       width="40"
       height="40"
     />
