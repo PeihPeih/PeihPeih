@@ -38,6 +38,18 @@
     rel="noreferrer"
   >
     <img
+      src="https://github.com/PeihPeih/Test/blob/master/icons/pngegg.png"
+      alt="matplotlib"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="#"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
       src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"
       alt="numpy"
       width="40"
