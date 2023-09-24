@@ -62,18 +62,6 @@
     rel="noreferrer"
   >
     <img
-      src="https://commons.wikimedia.org/wiki/File:SCIPY_2.svg"
-      alt="matplotlib"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="#"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
       src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"
       alt="numpy"
       width="40"
