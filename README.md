@@ -44,6 +44,19 @@
       height="40"
     />
   </a>
+
+  <a
+    href="#"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pytorch/pytorch-icon.svg"
+      alt="pytorch"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="#"
     target="_blank"
