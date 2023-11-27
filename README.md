@@ -20,6 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://en.wikipedia.org/wiki/File:Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" />
+  </a>
+  
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
   </a>
 
