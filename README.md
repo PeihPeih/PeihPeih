@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/File:Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" />
+    <img src="https://jupyter.org" alt="Jupyter Notebook" width="40" height="40" />
   </a>
   
   <a href="#" target="_blank" rel="noreferrer">
