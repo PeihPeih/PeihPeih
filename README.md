@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-block-end: 0.3rem">
-  Hi there👋,Call me Peih Peih <br>
+  Hi there👋, I'm Peih <br>
 </h1>
 
 - 📫 How to reach me **tienhiep345@gmail.com** <br />
