@@ -30,6 +30,11 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" />
   </a>
+  
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40" />
+  </a>
+  
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn" width="40" height="40" />
   </a>
