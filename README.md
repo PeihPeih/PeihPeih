@@ -28,7 +28,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/PeihPeih/Test/blob/master/icons/pngegg.png" alt="matplotlib" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
