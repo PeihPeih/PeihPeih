@@ -17,6 +17,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40" />
+  </a>
+  
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" />
   </a>
   
